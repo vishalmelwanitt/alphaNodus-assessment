@@ -1,3 +1,4 @@
+<pre>
 GIT CLONE
 cd alphaNodus-assessment
 yarn install
@@ -16,3 +17,4 @@ API LIST
   URL : localhost:3000/v1/consecutiveSeats
   Method : Post
   Params : cinemaId
+</pre>
